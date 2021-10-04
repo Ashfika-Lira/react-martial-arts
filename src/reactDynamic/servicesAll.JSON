@@ -1,0 +1,62 @@
+[
+	{
+		"key": "B01LZ2GH",
+		"name": "Judo",
+		"img": "https://dnl.eurosport.com/olympics/seo/i/hub/34/1x1.jpg",
+		"price":260
+	},
+	{
+		"key": "B01MUZF5",
+		"name": "Kung Fu",
+		"img": "https://png.pngtree.com/png-clipart/20200701/original/pngtree-chinese-kung-fu-martial-arts-png-image_5421483.jpg",
+		"price":400
+	},
+	{
+		"key": "B015L0C6",
+		"name": "Karate",
+		"img": "https://i.pinimg.com/originals/d1/5b/62/d15b62436925a40b768d96184121c76b.jpg",
+		"price":234
+	},
+	{
+		"key": "B01J42JG",
+		"name": "Muay Thai",
+		"img": "https://i.guim.co.uk/img/media/1c3c133f5820086698c0d0e73c823ce11791cc12/0_47_3617_2169/master/3617.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=a08694c19b176e936aed2c3dd641e0dd",
+		"price":200
+	},
+	{
+		"key": "B01DERMO",
+		"name": "Brazilian Jiu-Jitsu",
+		"img": "https://www.irishtimes.com/polopoly_fs/1.3975385.1564753146!/image/image.jpg_gen/derivatives/ratio_1x1_w1200/image.jpg",
+		"price":150
+	},
+	{
+		"key": "B01LZKS6",
+		"name": "Krav Maga",
+		"img": "https://www.irishtimes.com/polopoly_fs/1.2771338.1472416904!/image/image.jpg_gen/derivatives/ratio_1x1_w1200/image.jpg",
+		"price":300
+	},
+	{
+		"key": "B01CLVPA",
+		"name": "Aikido",
+		"img": "https://www.irishtimes.com/polopoly_fs/1.3971957.1564496416!/image/image.jpg_gen/derivatives/ratio_1x1_w1200/image.jpg",
+		"price":320
+	},
+	{
+		"key": "B01JKP34",
+		"name": "Taekwondo",
+		"img": "https://www.irishtimes.com/polopoly_fs/1.3940400.1561718456!/image/image.jpg_gen/derivatives/ratio_1x1_w1200/image.jpg",
+		"price":120
+	},
+	{
+		"key": "B01VLE7Q",
+		"name": "Lethwei",
+		"img": "https://www.mmacrossfire.com/wp-content/uploads/2020/08/02-e1597672651667.jpg",
+		"reward":600
+	},
+	{
+		"key": "B01N0Q13",
+		"name": "Kun Khmer",
+		"img": "https://i.imgur.com/uoHfsFL.jpeg",
+		"reward":700
+	}
+]
