@@ -1,6 +1,13 @@
 import React from 'react';
 import { Card } from 'react-bootstrap';
 import "./Coaches.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+	faFacebookSquare,
+	faInstagramSquare,
+	faTwitterSquare,
+	faYoutube,
+  } from "@fortawesome/free-brands-svg-icons";
 
 const Coaches = () => {
 	return (
@@ -15,15 +22,43 @@ const Coaches = () => {
     <Card.Title>Tina Wong</Card.Title>
     <Card.Text>
       <h3>Role: President</h3>
+	  <div className="icons-container d-flex text-center ms-4">
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faInstagramSquare} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faTwitterSquare} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faYoutube} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faFacebookSquare} />
+                  </div>
+                </div>
     </Card.Text>
     </Card.Body>
 </Card>
            <Card className="rounded card">
   <Card.Img variant="top" className="img-fluid card-img"src="http://wp.kodesolution.live/retail/health/martialz/rtl/wp-content/uploads/sites/12/2018/04/trainer3.jpg" />
   <Card.Body>
-    <Card.Title>Sarah lee</Card.Title>
+    <Card.Title>Sarah Lee</Card.Title>
     <Card.Text>
       <h3>Role: President</h3>
+	  <div className="icons-container d-flex text-center  ms-4">
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faInstagramSquare} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faTwitterSquare} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faYoutube} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faFacebookSquare} />
+                  </div>
+                </div>
     </Card.Text>
     </Card.Body>
 </Card>
@@ -33,6 +68,20 @@ const Coaches = () => {
     <Card.Title>Maggie Jones</Card.Title>
     <Card.Text>
       <h3>Role: President</h3>
+	  <div className="icons-container d-flex text-center  ms-4">
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faInstagramSquare} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faTwitterSquare} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faYoutube} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faFacebookSquare} />
+                  </div>
+                </div>
     </Card.Text>
     </Card.Body>
 </Card>
@@ -42,15 +91,43 @@ const Coaches = () => {
     <Card.Title>James Lui</Card.Title>
     <Card.Text>
       <h3>Role: Senior Trainer</h3>
+	  <div className="icons-container d-flex text-center  ms-4">
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faInstagramSquare} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faTwitterSquare} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faYoutube} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faFacebookSquare} />
+                  </div>
+                </div>
     </Card.Text>
     </Card.Body>
 </Card>
            <Card className="rounded card">
   <Card.Img variant="top" className="img-fluid card-img"src="https://tiger-claw.themerex.net/wp-content/uploads/2017/05/team-5-370x335.jpg" />
   <Card.Body>
-    <Card.Title>Angela yue</Card.Title>
+    <Card.Title>Angela Yue</Card.Title>
     <Card.Text>
       <h3>Role: Senior Trainer</h3>
+	  <div className="icons-container d-flex text-center  ms-4">
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faInstagramSquare} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faTwitterSquare} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faYoutube} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faFacebookSquare} />
+                  </div>
+                </div>
     </Card.Text>
     </Card.Body>
 </Card>
@@ -60,6 +137,20 @@ const Coaches = () => {
     <Card.Title>Steve Mason</Card.Title>
     <Card.Text>
       <h3>Role: Assistant</h3>
+	  <div className="icons-container d-flex text-center  ms-4">
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faInstagramSquare} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faTwitterSquare} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faYoutube} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faFacebookSquare} />
+                  </div>
+                </div>
     </Card.Text>
     </Card.Body>
 </Card>
@@ -69,6 +160,20 @@ const Coaches = () => {
     <Card.Title>Debbie brown</Card.Title>
     <Card.Text>
       <h3>Role: Assistant</h3>
+	  <div className="icons-container d-flex text-center  ms-4">
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faInstagramSquare} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faTwitterSquare} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faYoutube} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faFacebookSquare} />
+                  </div>
+                </div>
     </Card.Text>
     </Card.Body>
 </Card>
@@ -78,6 +183,20 @@ const Coaches = () => {
     <Card.Title>William Jones</Card.Title>
     <Card.Text>
       <h3>Role: Assistant</h3>
+	  <div className="icons-container d-flex text-center  ms-4">
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faInstagramSquare} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faTwitterSquare} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faYoutube} />
+                  </div>
+                  <div className="icon">
+                    <FontAwesomeIcon icon={faFacebookSquare} />
+                  </div>
+                </div>
     </Card.Text>
     </Card.Body>
 </Card>

@@ -12,3 +12,13 @@
   border-radius: 75%;
   margin-left: 5px;
 }
+.icon {
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(42, 42, 65);
+  color: rgb(155, 155, 155);
+  font-size: 30px;
+}
+.icon:hover {
+  background-color: rgb(250, 25, 25);
+}
