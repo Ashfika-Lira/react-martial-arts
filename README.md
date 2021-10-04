@@ -8,6 +8,6 @@ https://wonderful-mccarthy-f3600d.netlify.app/
 
 ## From the project you can get to know about
 
-- Simple Routing without refesh
+- Simple Routing without refresh
 - React Error Page
 - React Routing
