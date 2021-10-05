@@ -2,7 +2,7 @@ import React from 'react';
 import GetService from '../../reactDynamic/getService';
 import Services from '../Services/Services';
 
-const Courses = () => {
+const ServicesAll = () => {
    const servicesAll = GetService();
    return (
       <div>
@@ -16,4 +16,4 @@ const Courses = () => {
    );
 };
 
-export default Courses;
+export default ServicesAll;
